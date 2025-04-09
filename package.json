@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@vaadin/react-components": "^24.4.4"
+  }
+}
