@@ -7,3 +7,6 @@ Fonctionnalités principales :
 - Chatbot basé sur RAG utilisant la récupération en temps réel et des réponses contextuelles.
 - Expérience utilisateur fluide grâce à une interface intuitive et réactive alimentée par Vaadin.
 - Intégration efficace de l'apprentissage automatique pour des capacités conversationnelles avancées.
+
+*************************************************
+NOTE (10-04-2025) : Project not fully operational.
